@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZSi1eKXci78=",
+  "success": false,
+  "projectFilePath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Data.SqlClient (>= 5.2.0)' for 'net8.0'.",
+      "projectPath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "filePath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 8.0.24)' for 'net8.0'.",
+      "projectPath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "filePath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 8.0.24)' for 'net8.0'.",
+      "projectPath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "filePath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 8.0.24)' for 'net8.0'.",
+      "projectPath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "filePath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 8.0.24)' for 'net8.0'.",
+      "projectPath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "filePath": "C:\\Code\\application\\learningapp\\learningapp.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
